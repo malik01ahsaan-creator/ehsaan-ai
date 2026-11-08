@@ -1,0 +1,9 @@
+{
+  "name": "ehsaan-ai-image-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ehsaan AI image generator starter project",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
